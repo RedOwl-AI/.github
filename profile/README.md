@@ -29,7 +29,7 @@ Find where value is leaking. Stop it before money moves.
   <tr>
     <td width="33%" valign="top">
       <h3>Manage spend</h3>
-      <p>Always-on financial controls across invoices, purchase orders, and payments — so spend stays within the commercial terms the business actually agreed.</p>
+      <p>Always-on financial controls across invoices, purchase orders, and payments so spend stays within the commercial terms the business actually agreed.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Find leakage</h3>
@@ -50,8 +50,8 @@ Find where value is leaking. Stop it before money moves.
 
 | Need | How |
 | --- | --- |
-| **Support requests** | Email [ops@redowl.ai](mailto:ops@redowl.ai) |
-| **Access requests** | Request access through our [Vanta Access Request](https://app.aus.vanta.com/c/redowl.ai/access/systems/request) |
+| **Support requests** | [ops@redowl.ai](mailto:ops@redowl.ai) |
+| **Vanta Access requests** | [Vanta Access Request](https://app.aus.vanta.com/c/redowl.ai/access/systems/request) |
 
 Security documentation, compliance reports, and vendor due diligence materials are issued through Vanta. Please do not email for access.
 
