@@ -14,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="https://trust.redowl.ai">Trust Center</a>
   &nbsp;·&nbsp;
-  <a href="mailto:support@redowl.ai">Support</a>
+  <a href="mailto:ops@redowl.ai">Support</a>
 </p>
 
 ---
@@ -42,16 +42,16 @@ Find where value is leaking. Stop it before money moves.
   </tr>
 </table>
 
-- **Supplier leakage** — rates above contract, unclaimed rebates, off-contract billing, and terms that stopped being enforced after signature.
-- **Revenue leakage** — underbilling, missed pass-through costs, and revenue that never made it from operational systems onto the invoice.
-- **Payment leakage** — erroneous, duplicate, off-policy, and non-compliant spend, flagged before funds leave the business.
+- **Supplier leakage** : rates above contract, unclaimed rebates, off-contract billing, and terms that stopped being enforced after signature.
+- **Revenue leakage** : underbilling, missed pass-through costs, and revenue that never made it from operational systems onto the invoice.
+- **Payment leakage** : erroneous, duplicate, off-policy, and non-compliant spend, flagged before funds leave the business.
 
 ## Get in touch
 
 | Need | How |
 | --- | --- |
-| **Support requests** | Email [support@redowl.ai](mailto:support@redowl.ai) |
-| **Access requests** | Request access through our [Vanta Trust Center](https://trust.redowl.ai) |
+| **Support requests** | Email [ops@redowl.ai](mailto:ops@redowl.ai) |
+| **Access requests** | Request access through our [Vanta Access Request](https://app.aus.vanta.com/c/redowl.ai/access/systems/request) |
 
 Security documentation, compliance reports, and vendor due diligence materials are issued through Vanta. Please do not email for access.
 
